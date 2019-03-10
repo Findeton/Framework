@@ -1,1 +1,0 @@
-{"version":3,"file":"InvalidControllerError.js","sourceRoot":"","sources":["../../../src/errors/InvalidControllerError.ts"],"names":[],"mappings":";;AAAA,qDAAiD;AAOjD,MAAa,sBAAuB,SAAQ,+BAAc;IACtD,YAAY,KAAa;QACrB,KAAK,CACD,0CAA0C,KAAK,0GAA0G,CAC5J,CAAA;IACL,CAAC;CACJ;AAND,wDAMC"}
